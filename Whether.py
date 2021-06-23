@@ -1,3 +1,4 @@
+#first install: pip install wwo-hist package
 import requests
 import os
 
